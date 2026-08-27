@@ -49,10 +49,8 @@ Pizza Sales/
 ├── 📄 views.sql                 # SQL scripts and analytical views for BigQuery
 └── 📄 README.md                 # Project documentation
 
+```
 ---
-
----
-
 ## 🚀 How to Run the Project
 * Clone or download this repository.
 * Review the `views.sql` script to inspect the BigQuery data pipeline.
